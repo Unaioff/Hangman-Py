@@ -25,3 +25,4 @@ Hangman es un juego de adivinanza en el que el jugador debe descubrir una palabr
 3. Empieza a jugar!
 
 
+![20251022-0749-37 0023190](https://github.com/user-attachments/assets/9134e212-e922-42a0-bc66-844a48f987f3)
