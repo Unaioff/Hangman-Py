@@ -1,24 +1,27 @@
+# 🕹️ Hangman in Python
 
-# Hangman in Python
+El clásico juego del ahorcado implementado en Python. Este juego basado en consola reta a los jugadores a adivinar una palabra letra por letra, con un número limitado de intentos.
 
-The classic Hangman game implemented in Python! This console-based game challenges players to guess a word by suggesting letters within a limited number of attempts.
+## 📖 Descripción
 
-# Description
-Hangman is a guessing game where the player must uncover a hidden word by suggesting letters. Each incorrect letter brings the player one step closer to being “hanged.” The goal is to guess the entire word before running out of attempts.
+Hangman es un juego de adivinanza en el que el jugador debe descubrir una palabra oculta sugiriendo letras. Cada error acerca al jugador un paso más a ser “ahorcado”. El objetivo es adivinar la palabra completa antes de quedarse sin intentos.
 
+## ✨ Características
 
-## Features
+- **Interfaz de texto:** El juego se ejecuta completamente en la consola.
+- **Arte ASCII:** Representaciones visuales del ahorcado para mejorar la experiencia.
+- **Palabras aleatorias:** El juego selecciona una palabra al azar de una lista predefinida.
+- **Validación de entrada:** Solo se aceptan letras válidas como entrada.
 
-- **Text-based user interface:** The game is played in the console.
-- **ASCII art:** Visual representations of the hangman to enhance the user experience.
-- **Random words:** The game selects a random word from a predefined list.
-- **Input validation:** Ensures the player enters only valid letters.
-- **Game Modes:**
-    - **Player vs Player:** Two players take turns guessing letters. One player thinks of a word, and the other tries to guess it.
-    - **Player vs Machine:** The player competes against the computer, which selects a random word for the player to guess.
+## 🎮 Modos de juego
 
+- **Jugador vs Jugador:** Dos jugadores se turnan para adivinar letras. Uno piensa una palabra, el otro intenta adivinarla.
+- **Jugador vs Máquina:** El jugador compite contra el ordenador, que selecciona una palabra aleatoria para adivinar.
 
-## Screenshots
+## 🚀 Cómo empezar
 
-![App Screenshot](https://imgur.com/a/CDNDRob)
+1. Clona el repositorio.
+2. Ejecuta el archivo `HangMan.py` en tu terminal.
+3. Empieza a jugar!
+
 
